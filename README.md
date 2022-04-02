@@ -6,4 +6,5 @@ simple qr code generator
 # how to use
 
 pip install qrcode[pil]
+
 py -3 qr.py
